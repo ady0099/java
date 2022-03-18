@@ -1,0 +1,19 @@
+package csr;
+
+public class Calor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a=0;
+		
+		System.out.println(a>=0 && a<10);
+		System.out.println(a!=0);
+		System.out.println(a>=10 || a==0);
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+
+public class P37 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int num=0; 
+		num++;
+		System.out.println("월요일 알의 개수 "+"= "+num);
+		num++;
+		System.out.println("화요일 알의 개수 "+"= "+num);
+		
+	}
+
+}

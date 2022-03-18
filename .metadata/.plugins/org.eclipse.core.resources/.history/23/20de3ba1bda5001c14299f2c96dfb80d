@@ -1,0 +1,19 @@
+
+public class Prac55 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a =5;
+		do
+		{	
+			System.out.println("¿¹");
+			a++;
+		}
+		while( a< 10);
+		
+		
+		
+	}
+
+}

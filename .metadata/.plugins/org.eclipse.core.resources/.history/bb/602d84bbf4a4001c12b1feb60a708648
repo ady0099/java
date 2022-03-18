@@ -1,0 +1,21 @@
+
+public class P22_2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num = 5;
+		
+		(num % 2) == 0 ? ("Â¦¼ö" : "È¦¼ö")
+	
+		if(num % 5 == 0) {
+			System.out.println("Â¦¼ö");
+		}
+		
+		else {
+			System.out.println("È¦¼ö");
+		}
+			
+
+	}
+
+}

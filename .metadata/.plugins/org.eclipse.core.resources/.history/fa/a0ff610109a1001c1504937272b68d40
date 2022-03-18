@@ -1,0 +1,28 @@
+package csr;
+
+public class Calor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		boolean x = true;
+		boolean y = true;
+		
+		
+		
+		System.out.println(x || y);
+		System.out.println(x && y);
+		
+		
+		int i = 7;
+		System.out.println( i > 3 && i < 5);
+		System.out.println( i > 3 || i < 0);
+		
+		char k = 'j';
+		System.out.println((k >= 'A' && k <= 'Z')||(k >= 'A' && k <= 'Z'));
+		
+		
+		
+	}
+
+}

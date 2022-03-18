@@ -1,0 +1,18 @@
+
+public class Sd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		int num = 128;
+		char capital = 'A';
+		char upperChar = 65;
+		float var = 3.14f;
+		double var2 = var;
+		boolean ret = false;
+		
+		System.out.println("char :" +capital);
+		
+	}
+
+}
