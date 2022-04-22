@@ -22,12 +22,12 @@ class MyCons
 	
 }
 
-class Point
-{
-	int x;
-	int y;
-	int z;
-	
-
-}
-
+//class Point
+//{
+//	int x;
+//	int y;
+//	int z;
+//	
+//
+//}
+//

@@ -18,7 +18,7 @@ public class ParameterTest {
 		
 	}
 
-	static void change(Data d//?)
+	static void change(Data d)//?
 	{
 		
 		d.x = 100;

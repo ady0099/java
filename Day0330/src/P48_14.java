@@ -12,7 +12,7 @@ public class P48_14 {
 		};
 		
 		int scorelength = score.length;
-		int[][] newscore = new int[score.length +1];
+		//int[][] newscore = new int[score.length +1];
 		
 		int[][] a = new int[6][4];
 	

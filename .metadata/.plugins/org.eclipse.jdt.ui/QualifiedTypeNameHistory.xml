@@ -4,5 +4,12 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="test.Person"/>
     <fullyQualifiedTypeName name="StaticMethod"/>
+    <fullyQualifiedTypeName name="a.ATest"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="UpCastingParent"/>
+    <fullyQualifiedTypeName name="UpCastingChild"/>
+    <fullyQualifiedTypeName name="Product"/>
+    <fullyQualifiedTypeName name="Buyer"/>
+    <fullyQualifiedTypeName name="Animal"/>
 </qualifiedTypeNameHistroy>

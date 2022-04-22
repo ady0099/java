@@ -21,7 +21,7 @@ public class P48_12_2 {
 			for ( int j = 0; j<5; j++)
 			{
 				
-				          a[i][j] = 
+				       //   a[i][j] = 
 				
 				// 배열의 값을 넣는 작업을하는 for문
 			}
